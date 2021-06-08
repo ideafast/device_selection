@@ -1,4 +1,4 @@
-A _exprimental_ Jupyter notebook setup for analysing and visualizing WP3 Device Selection scores.
+An _experimental_ Jupyter notebook setup for analysing and visualizing WP3 Device Selection scores.
 
 ## Setup
 
